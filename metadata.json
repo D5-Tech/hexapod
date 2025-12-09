@@ -1,0 +1,5 @@
+{
+  "name": "Hexapod Robot Simulator",
+  "description": "A 3D Inverse Kinematics simulator for a hexapod robot, featuring real-time controls and visualization.",
+  "requestFramePermissions": []
+}
